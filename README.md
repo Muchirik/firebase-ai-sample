@@ -1,17 +1,4 @@
-# "Planning with the Gemini API" - a Firebase AI sample app
-
-Welcome to the _Planning with the Gemini API_ sample app, an AI-powered web app
-for to-do lists! It's an [Angular](https://angular.io/) app built using the
-Gemini API and Firebase.
-
-The [Gemini API](https://ai.google.dev/gemini-api) gives you access to Google's latest
-generative AI models – the Gemini family of multimodal models.
-This _Planning with the Gemini API_ web app calls the Gemini API to generate a task list
-from either text or an image provided by the end user.
-
-The backend of _Planning with the Gemini API_ is powered by
-[Firebase](https://firebase.google.com/), which is Google's platform for
-building fullstack multi-platform apps. This app uses
+This app uses
 [Firebase Authentication](https://firebase.google.com/products/auth) for signing-in
 and authorizing end users. It also uses
 [Firestore](https://firebase.google.com/products/firestore) – a NoSQL realtime database –
